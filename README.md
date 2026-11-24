@@ -1,10 +1,9 @@
-<div align="right">
+<table><tr><td>
   <a href="https://github.com/pandorafranco">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandorafranco&layout=compact&langs_count=7&theme=jolly"/>
   </a>
-</div>
-
-<div style="display: inline_block" align="right"><br>
+</td>
+<td>
   <table>
     <tr>
       <td>Backend</td>
@@ -64,4 +63,6 @@
       <td><img align="center" alt="MongoDB" height="30" width="40" src="https://github.com/pandorafranco/pandorafranco/blob/main/icons/mongodb.svg"></td>
     </tr>
   </table>
-</div>
+</td>
+</tr>
+</table>
